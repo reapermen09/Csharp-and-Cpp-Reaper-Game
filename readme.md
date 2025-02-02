@@ -13,3 +13,6 @@ C# version of the game requires the music so if you dont want music you will hav
 achievement.wav & action.wav were used as royalty free sounds.
 gamble.mp3 and prison.mp3 were made by Suno.
 mrati.mp3 was made by mrati.
+
+You may only copy suno and royalty free sounds but you may not copy the code without permission by me.
+If you want to ask for permission consult my email: "zxteam27@gmail.com"
